@@ -1,4 +1,4 @@
-I am Tika, a computer engineer with a career in software development. Welcome to my GitHub!
+Welcome to my GitHub! I am Tika, a computer engineer with a career in software development. 
 
 Most of my repos are private so you may not see all of them listed. 
 
