@@ -1,7 +1,6 @@
-Welcome to my GitHub! I am Tika, a computer engineering graduate with a career in software development. 
+Welcome to my GitHub! I am Tika, a computer engineering graduate with a career in software development and IT. 
 
-Most of my repos are private so you will not see all of them listed. 
-
+Most of my repos are private as they were made for experimental development and exploration of technologies.
 My public projects:
 
 - TikApps  
