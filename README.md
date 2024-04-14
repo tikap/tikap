@@ -3,7 +3,7 @@
 Almost all my repositories are private as they were made for experimental development and exploration of technologies. They will be made public in the future as development concludes.
 </p>
 
-To date, there are two public projects listed below: 
+To date, there is one public project listed below: 
 
 <h2>
   TikApps
